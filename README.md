@@ -1,4 +1,4 @@
-# CS370-Project
+# Intelligent Agent Pirate Treasure Hunt Game
 
 ## Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 
